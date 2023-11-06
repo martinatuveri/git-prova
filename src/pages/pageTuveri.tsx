@@ -16,6 +16,7 @@ function PageTuveri() {
         <p>per unire le commit bisogna eseguire il comando git rebase –i "codice dell'ultima commit effettuata",
           dopodichè selezionare squash per unire le altre a questa ed avenrne quindi solo una</p>
         <p>Gemitaiz</p>
+        <p>Brad Pitt</p>
         {}
       </div>
     );
