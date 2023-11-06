@@ -8,7 +8,13 @@ function PageTuveri() {
       <div>
         <Logo /> {}
         <h1>{nome} {cognome}</h1>
-        <p>facendo git pull origin master</p>
+        <p>facendo git merge master</p>
+        <p>tagliere di salumi</p>
+        <p>pappardelle al ragù di cervo</p>
+        <p>scaloppine ai funghi porcini</p>
+        <p>millefoglie</p>
+        <p>per unire le commit bisogna eseguire il comando git rebase –i "codice dell'ultima commit effettuata",
+          dopodichè selezionare squash per unire le altre a questa ed avenrne quindi solo una</p>
         {}
       </div>
     );
