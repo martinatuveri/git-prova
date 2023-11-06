@@ -8,7 +8,8 @@ function PageTuveri() {
       <div>
         <Logo /> {}
         <h1>{nome} {cognome}</h1>
-        <p>facendo git pull origin master</p>
+        <p>facendo git merge master</p>
+        <p>tagliere di salumi</p>
         {}
       </div>
     );
