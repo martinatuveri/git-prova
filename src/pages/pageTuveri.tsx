@@ -1,8 +1,24 @@
-const PageTuveri = () => {
-    return <div>Martina Tuveri</div>;
-  };
+import Logo from "../components/tuveri/Logo";
+
+function PageRossi() {
+    const nome = 'Martina';
+    const cognome = 'Tuveri';
   
-  export default PageTuveri;
+    return (
+      <div>
+        <Logo /> {/* Includi il componente Logo qui */}
+        <h1>{nome} {cognome}</h1>
+        {/* Altri contenuti della tua pagina */}
+      </div>
+    );
+  }
+  
+  export default PageRossi;
+  
+  
+  
+  
+  
 
 
 
