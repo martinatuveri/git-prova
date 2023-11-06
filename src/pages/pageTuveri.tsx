@@ -17,6 +17,7 @@ function PageTuveri() {
           dopodichè selezionare squash per unire le altre a questa ed avenrne quindi solo una</p>
         <p>Gemitaiz</p>
         <p>Brad Pitt</p>
+        <p>CR7GOAT</p>
         {}
       </div>
     );
